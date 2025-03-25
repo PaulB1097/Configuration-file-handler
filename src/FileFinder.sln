@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFinder", "FileFinder.csproj", "{9B808E2A-D016-4EB2-99F0-4A76A263D1F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B808E2A-D016-4EB2-99F0-4A76A263D1F0}.Debug|x86.ActiveCfg = Release|x86
+		{9B808E2A-D016-4EB2-99F0-4A76A263D1F0}.Debug|x86.Build.0 = Release|x86
+		{9B808E2A-D016-4EB2-99F0-4A76A263D1F0}.Release|x86.ActiveCfg = Release|x86
+		{9B808E2A-D016-4EB2-99F0-4A76A263D1F0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B0F55AF-4663-4380-83BD-807023950ED3}
+	EndGlobalSection
+EndGlobal
